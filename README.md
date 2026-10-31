@@ -28,11 +28,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=YTWin-RP&theme=github_dark"
+      srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/YTWin-RP.svg?theme=github_dark"
     />
     <img
       alt="YTWin-RP"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=YTWin-RP&theme=default"
+      src="https://api.toki1703.net/github/v1/pin/amanetoki7/YTWin-RP.svg?theme=default"
       width="49%"
     />
   </picture>
@@ -41,11 +41,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=WinUI-3-twikit&theme=github_dark"
+      srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/WinUI-3-twikit.svg?theme=github_dark"
     />
     <img
       alt="WinUI-3-twikit"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=WinUI-3-twikit&theme=default"
+      src="https://api.toki1703.net/github/v1/pin/amanetoki7/WinUI-3-twikit.svg?theme=default"
       width="49%"
     />
   </picture>
@@ -58,11 +58,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=publish-status&theme=github_dark&description_lines_count=3"
+        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/publish-status.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="publish-status"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=publish-status&theme=default&description_lines_count=3"
+        src="https://api.toki1703.net/github/v1/pin/amanetoki7/publish-status.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -71,11 +71,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=local-history&theme=github_dark&description_lines_count=3"
+        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/local-history.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="local-history"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=local-history&theme=default&description_lines_count=3"
+        src="https://api.toki1703.net/github/v1/pin/amanetoki7/local-history.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -85,11 +85,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=bitwarden&theme=github_dark&description_lines_count=3"
+        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/bitwarden.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="bitwarden"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=bitwarden&theme=default&description_lines_count=3"
+        src="https://api.toki1703.net/github/v1/pin/amanetoki7/bitwarden.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -98,11 +98,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=mouse-tooltip-translator&theme=github_dark&description_lines_count=3"
+        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/mouse-tooltip-translator.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="mouse-tooltip-translator"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=mouse-tooltip-translator&theme=default&description_lines_count=3"
+        src="https://api.toki1703.net/github/v1/pin/amanetoki7/mouse-tooltip-translator.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -116,11 +116,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=twikit&theme=github_dark&description_lines_count=3"
+        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/twikit.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="twikit"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=twikit&theme=default&description_lines_count=3"
+        src="https://api.toki1703.net/github/v1/pin/amanetoki7/twikit.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -129,11 +129,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=twikit-dotnet&theme=github_dark&description_lines_count=3"
+        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/twikit-dotnet.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="twikit-dotnet"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=twikit-dotnet&theme=default&description_lines_count=3"
+        src="https://api.toki1703.net/github/v1/pin/amanetoki7/twikit-dotnet.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -143,11 +143,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=diskit&theme=github_dark&description_lines_count=3"
+        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/diskit.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="diskit"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amanetoki7&repo=diskit&theme=default&description_lines_count=3"
+        src="https://api.toki1703.net/github/v1/pin/amanetoki7/diskit.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
