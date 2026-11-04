@@ -5,7 +5,7 @@
 [![技術者倫理|遵守済み](https://gijutsusharin.li/badge.svg)](https://gijutsusharin.li)
 [![wakatime](https://wakatime.com/badge/user/8deed6e6-97d4-4293-b528-4477c7087165.svg)](https://wakatime.com/@8deed6e6-97d4-4293-b528-4477c7087165)
 [![Followers](https://img.shields.io/github/followers/amanetoki7?logo=github)](https://github.com/amanetoki7?tab=followers)
-[![Followers](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.toki1703.net%2Fbadges%2Fx%2Ffollowers%2Famanetoki7&style=social&logo=x&v=2)](https://x.com/amanetoki7)
+[![Followers](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.amanetoki.com%2Fbadges%2Fx%2Ffollowers%2Famanetoki7&style=social&logo=x&v=2)](https://x.com/amanetoki7)
 
 
 こんちは！ 雨音 とき だよ ～！！！
@@ -28,11 +28,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/YTWin-RP.svg?theme=github_dark"
+      srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/YTWin-RP.svg?theme=github_dark"
     />
     <img
       alt="YTWin-RP"
-      src="https://api.toki1703.net/github/v1/pin/amanetoki7/YTWin-RP.svg?theme=default"
+      src="https://api.amanetoki.com/github/v1/pin/amanetoki7/YTWin-RP.svg?theme=default"
       width="49%"
     />
   </picture>
@@ -41,11 +41,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/WinUI-3-twikit.svg?theme=github_dark"
+      srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/WinUI-3-twikit.svg?theme=github_dark"
     />
     <img
       alt="WinUI-3-twikit"
-      src="https://api.toki1703.net/github/v1/pin/amanetoki7/WinUI-3-twikit.svg?theme=default"
+      src="https://api.amanetoki.com/github/v1/pin/amanetoki7/WinUI-3-twikit.svg?theme=default"
       width="49%"
     />
   </picture>
@@ -58,11 +58,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/publish-status.svg?theme=github_dark&description_lines_count=3"
+        srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/publish-status.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="publish-status"
-        src="https://api.toki1703.net/github/v1/pin/amanetoki7/publish-status.svg?theme=default&description_lines_count=3"
+        src="https://api.amanetoki.com/github/v1/pin/amanetoki7/publish-status.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -71,11 +71,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/local-history.svg?theme=github_dark&description_lines_count=3"
+        srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/local-history.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="local-history"
-        src="https://api.toki1703.net/github/v1/pin/amanetoki7/local-history.svg?theme=default&description_lines_count=3"
+        src="https://api.amanetoki.com/github/v1/pin/amanetoki7/local-history.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -85,11 +85,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/bitwarden.svg?theme=github_dark&description_lines_count=3"
+        srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/bitwarden.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="bitwarden"
-        src="https://api.toki1703.net/github/v1/pin/amanetoki7/bitwarden.svg?theme=default&description_lines_count=3"
+        src="https://api.amanetoki.com/github/v1/pin/amanetoki7/bitwarden.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -98,11 +98,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/mouse-tooltip-translator.svg?theme=github_dark&description_lines_count=3"
+        srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/mouse-tooltip-translator.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="mouse-tooltip-translator"
-        src="https://api.toki1703.net/github/v1/pin/amanetoki7/mouse-tooltip-translator.svg?theme=default&description_lines_count=3"
+        src="https://api.amanetoki.com/github/v1/pin/amanetoki7/mouse-tooltip-translator.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -116,11 +116,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/twikit.svg?theme=github_dark&description_lines_count=3"
+        srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/twikit.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="twikit"
-        src="https://api.toki1703.net/github/v1/pin/amanetoki7/twikit.svg?theme=default&description_lines_count=3"
+        src="https://api.amanetoki.com/github/v1/pin/amanetoki7/twikit.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -129,11 +129,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/twikit-dotnet.svg?theme=github_dark&description_lines_count=3"
+        srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/twikit-dotnet.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="twikit-dotnet"
-        src="https://api.toki1703.net/github/v1/pin/amanetoki7/twikit-dotnet.svg?theme=default&description_lines_count=3"
+        src="https://api.amanetoki.com/github/v1/pin/amanetoki7/twikit-dotnet.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -143,11 +143,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.toki1703.net/github/v1/pin/amanetoki7/diskit.svg?theme=github_dark&description_lines_count=3"
+        srcset="https://api.amanetoki.com/github/v1/pin/amanetoki7/diskit.svg?theme=github_dark&description_lines_count=3"
       />
       <img
         alt="diskit"
-        src="https://api.toki1703.net/github/v1/pin/amanetoki7/diskit.svg?theme=default&description_lines_count=3"
+        src="https://api.amanetoki.com/github/v1/pin/amanetoki7/diskit.svg?theme=default&description_lines_count=3"
         width="49%"
       />
     </picture>
@@ -159,10 +159,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.toki1703.net/ai-usage/v1/card.svg?theme=dark&lang=en&font=xkcd">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.amanetoki.com/ai-usage/v1/card.svg?theme=dark&lang=en&font=xkcd">
     <img
       alt="AI の利用制限"
-      src="https://api.toki1703.net/ai-usage/v1/card.svg?theme=light&lang=en&font=xkcd"
+      src="https://api.amanetoki.com/ai-usage/v1/card.svg?theme=light&lang=en&font=xkcd"
       width="900"
     >
   </picture>
